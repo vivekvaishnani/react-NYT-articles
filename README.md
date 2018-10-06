@@ -1,10 +1,7 @@
 ## NYT React Search
 A web app which allows users to search the New York Times Articles API for a custom start/end date and read the 10 resulting articles that render. Users have the option to save articles and search for others as well. MongoDB persists the data. This app is built with the MERN stack.
 
-Visit the deployed site [here](https://nyt-react-scraper-pz.herokuapp.com/)
-
-## Motivation
-To create an app for people wanting to search and read old and current news articles, and to do so utilizing MongoDB, Express.js, React.js, and Node.js.
+Visit the deployed site [here](https://glacial-hamlet-62774.herokuapp.com/)
 
 ## Tech/framework used
 <b>Built with</b>
@@ -40,8 +37,5 @@ To create an app for people wanting to search and read old and current news arti
 - NYT Article Scraper runs locally on port 3000. Open your favorite web browser and enjoy!
 
 ## Credits
-- UNC-CH Coding Boot Camp
 - NYT Article Search API
 
-## License
-MIT © [paulz92](https://github.com/paulz92)
